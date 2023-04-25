@@ -1,0 +1,16 @@
+
+name: synth-matereals
+
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - python
+  - requests
+  - pip
+  - pandas
+  - torch
+  - torchvision
+  - timm
+  - opencv-python
+  - matplotli

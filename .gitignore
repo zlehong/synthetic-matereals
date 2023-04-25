@@ -1,0 +1,8 @@
+city-surfaces/
+facade_materials/
+data/img/
+dpt_segmentation/
+
+*.ipynb_checkpoints
+*.pth
+*.pt
