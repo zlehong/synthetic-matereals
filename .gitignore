@@ -2,6 +2,7 @@ city-surfaces/
 facade_materials/
 data/img/
 dpt_segmentation/
+cityscapes/
 
 *.ipynb_checkpoints
 *.pth
